@@ -29,6 +29,11 @@ public class CommandListener extends ListenerAdapter {
             "hello there - Hello there\n" +
             "general kenobi - General Kenobi\n" +
             "unlimited power - Unlimited powah\n" +
+            "wilhelm - wilhelm scream\n" +
+            "I don't like sand - It's course, rough, and it gets everywhere\n" +
+            "I am the senate - I am the senate\n" +
+            "I'll try spinning - That's a good trick\n" +
+            "These are not the droids - You're looking for\n" +
             "destroyers - master, destoryers\n" +
             "\n" +
             "Only sound effects:\n" +

@@ -4,6 +4,11 @@
 # Log file
 *.log
 
+.gradle/
+
+build/
+out/
+
 # Intellij Folder
 .idea/
 
@@ -32,3 +37,4 @@ hs_err_pid*
 
 # Keep Gradle Wrapper
 !gradle/**
+src/main/java/com/datdeveloper/jai/SecretStuff.java
